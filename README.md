@@ -6,7 +6,7 @@
 
 ## Run application locally
 
-- you will need file .env in the main folder with credentials, which I send you
+- you will need file .env in the main folder with credentials, which I will send you
 
 - install all dependencies with command `npm install`
 
